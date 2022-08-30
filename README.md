@@ -14,3 +14,7 @@ This is a good example of [mycode](https://gist.github.com/hammadyasir/cee566de7
 ### Colab Example
 this is the [notebook]()
 
+### Image
+
+
+![lambda_limit_rate](https://user-images.githubusercontent.com/49805944/187437013-f7f4d112-94dd-44d7-9281-a0a18fb7f731.PNG)
